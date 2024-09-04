@@ -103,6 +103,7 @@ fun App() {
             }
             )
         },
+
         bottomBar = {
             BottomAppBar {
                 screens.forEach { screen ->
